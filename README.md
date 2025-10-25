@@ -26,10 +26,10 @@ This repository demonstrates practical applications of cybersecurity concepts th
 
 ---
 
-## 🚀 Getting Started
+## 🧑‍💻 Author
 
-Clone the repository and explore each lab:
+Rani Kamaleddine
 
-```bash
-git clone https://github.com/0xpynge/cybersecurity-lab-projects.git
-cd cybersecurity-lab-projects
+[GitHub Profile](https://github.com/0xpynge)
+
+[LinkedIn](https://www.linkedin.com/in/rani-kamaleddine)
