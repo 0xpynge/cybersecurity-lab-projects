@@ -1,6 +1,6 @@
 # 🥷 Cybersecurity Lab Projects
 
-Welcome to **Cybersecurity Lab Projects** — a collection of hands-on security experiments exploring **network defense**, **threat detection**, and **ethical hacking**.  
+Welcome to **Cybersecurity Lab Projects** - a collection of hands-on security experiments exploring **network defense**, **threat detection**, and **ethical hacking**.  
 Each folder in this repo represents a self-contained lab with documentation, screenshots, and results from real-world exercises.
 
 ---
