@@ -12,7 +12,7 @@ This repository demonstrates practical applications of cybersecurity concepts th
 | Folder | Description |
 |---------|-------------|
 | 🔐 [Network Security](./network-security) | Fundamentals of securing networks - threats, firewalls, Wi-Fi hardening, and traffic analysis with Wireshark. |
-| 🛰️ [Splunk Analysis](./splunk-analysis) | SIEM setup and log analysis using Splunk — detecting brute-force, DNS anomalies, and suspicious network activity. |
+| 🛰️ [Splunk Analysis](./splunk-analysis) | SIEM setup and log analysis using Splunk - detecting brute-force, DNS anomalies, and suspicious network activity. |
 | 💻 [Web Testing with DVWA](./web-testing-with-dvwa) | Web vulnerability testing using DVWA — exploring SQL Injection, XSS, and CSRF with mitigation strategies. |
 
 ---
